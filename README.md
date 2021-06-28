@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DamonThomasBlom
-- 👀 I’m interested in coding and making usefull applications 
+- 👋 Hi, I’m Damon
+- 👀 I like to code 
 - 🌱 I’m currently learning software development 
 - 📫 If you would like to contact me you can do so via damonthomasblom@gmail.com
 
