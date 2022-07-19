@@ -1,6 +1,6 @@
 - 👋 I'm Damon
 
-I'm 20 years old currently learning software engineering through Hyperion Dev, I love programming, working with new technologies and always looking to expand my knowledge, I matriculated from Vryburger Highschool in 2020 and have worked a few jobs but nothing tech related so far so I don't count it as experience. Really eager to find my first internship or possibly junior role to get my foot in the door of the tech industry.
+I'm 21 years old currently learning software engineering through Hyperion Dev, I love programming, working with new technologies and always looking to expand my knowledge, I matriculated from Vryburger Highschool in 2020 and have worked a few jobs but nothing tech related so far so I don't count it as experience. Really eager to find my first internship or possibly junior role to get my foot in the door of the tech industry.
 
 You can contact me via:
 
