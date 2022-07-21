@@ -1,6 +1,6 @@
 - 👋 I'm Damon
 
-I'm 21 years old currently learning software engineering through Hyperion Dev, I love programming, working with new technologies and always looking to expand my knowledge, I matriculated from Vryburger Highschool in 2020 and have worked a few jobs but nothing tech related so far so I don't count it as experience. Really eager to find my first internship or possibly junior role to get my foot in the door of the tech industry.
+I'm a 21 year old virtual reality and emerging tech developer that also dabbles in IOT. Skilled in Java and C# with a fair amount of experience with python and machine learning. Working as a junior developer at Speak Geek?
 
 You can contact me via:
 
